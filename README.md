@@ -3,5 +3,5 @@ CLI tool to easily set up Laravel-based apps (like Pterodactyl, Paymenter, etc.)
 
 # Installation
 ```bash
-curl https://caligo.asia/link/installeasycaligo | bash && source ~/.bashrc
+curl -sL https://caligo.asia/link/installeasycaligo | bash && source ~/.bashrc
 ```
